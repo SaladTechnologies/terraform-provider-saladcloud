@@ -1,0 +1,5 @@
+* @SaladTechnologies/terraform-provider-maintainers
+
+# Administrators must approve changes to license and code owners (and other GitHub-specific resources).
+/.github/ @SaladTechnologies/admins
+/LICENSE @SaladTechnologies/admins

@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "golang.go",
+    "streetsidesoftware.code-spell-checker",
+    "wayou.vscode-todo-highlight"
+  ],
+  "unwantedRecommendations": []
+}
